@@ -25,3 +25,4 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 
 - HTML
 - CSS
+- JavaScript
